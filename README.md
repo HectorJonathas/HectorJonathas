@@ -35,6 +35,4 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e, no momento, estou 
 
 🤝 **Vamos Colaborar!** Se você também é um entusiasta por tecnologia e quer discutir projetos, arquitetura ou apenas um bom *easter egg* da cultura pop, me chame!
 
-"kept you waiting huh?!"
-
-
+**"kept you waiting huh?!"**
