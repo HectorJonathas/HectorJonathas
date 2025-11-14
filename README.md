@@ -13,7 +13,7 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e, no momento, estou 
 ![HectorJonathas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HectorJonathas&theme=ayu-mirage&hide_border=true)
 ![HectorJonathas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJonathas&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" width="40" align="center" />
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40" align="center" />
@@ -21,7 +21,9 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e, no momento, estou 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="40" align="center" />
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40" align="center" />
-            
+
+</div>            
+<br>
 
 **O que você vai encontrar aqui:**
 
